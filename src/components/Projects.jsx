@@ -8,6 +8,8 @@ import hulu from "../images/hulu.jpg";
 import last_sw3 from "../images/lasto_sw3_system.png";
 import lgu_website from "../images/lgu_website.png";
 import whatsapp from "../images/whatsapp.jpg";
+import lending_system from "../images/lending_system.jpg";
+import derby_matching from "../images/derby_matching_system.jpg";
 
 // projects data
 const projectsData = [
@@ -18,6 +20,24 @@ const projectsData = [
     clientName: "",
     fbOrPageName: "",
     technologies: ["HTML", "Sass", "React", "Firebase", "CPanel"],
+  },
+  {
+    image: lending_system,
+    title: "Lending System",
+    description:
+      "Automated Calculation Grand total,Remaining Balance and Interest base on term(# of months)",
+    clientName: "Client Name: Xenxer Sambrano",
+    fbOrPageName: "Fb: Xenxer Sambrano",
+    technologies: ["HTML", "Vite", "React", "Firebase", "Bootstrap"],
+  },
+  {
+    image: derby_matching,
+    title: "Derby Matching System",
+    description:
+      "Automated matching system on chicken entries base on their weight",
+    clientName: "Client Name: NorlieJane, Galing",
+    fbOrPageName: "Fb: NorlieJane, Galing",
+    technologies: ["HTML", "Vite", "React", "Firebase", "django", "Bootstrap"],
   },
   {
     image: es_cargo,
