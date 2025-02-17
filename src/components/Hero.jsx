@@ -34,7 +34,7 @@ function Hero() {
           </h3>
           <p className="md:text-base text-pretty text-sm text-gray-400">
             Transform Clicks into Cash: Elevate Your Business with a
-            Profit-Boosting Website!
+            Profit-Boosting Website through automation!
           </p>
           <div className="flex items-center justify-between gap-10">
             <p className="md:text-base text-pretty text-sm text-gray-400">
