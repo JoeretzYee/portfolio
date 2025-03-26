@@ -33,8 +33,8 @@ function Hero() {
             Web Developer
           </h3>
           <p className="md:text-base text-pretty text-sm text-gray-400">
-            Transform Clicks into Cash: Elevate Your Business with a
-            Profit-Boosting Website through automation!
+            Looking for a collaborative web developer to streamline your digital
+            goals? Let’s build something impactful together
           </p>
           <div className="flex items-center justify-between gap-10">
             <p className="md:text-base text-pretty text-sm text-gray-400">
