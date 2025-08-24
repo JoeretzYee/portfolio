@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import React from "react";
-import image from "../images/m2.jfif";
+import image from "../images/me.jfif";
 
 function Hero() {
   return (

@@ -10,16 +10,25 @@ import lgu_website from "../images/lgu_website.png";
 import whatsapp from "../images/whatsapp.jpg";
 import lending_system from "../images/lending_system.jpg";
 import derby_matching from "../images/derby_matching_system.jpg";
+import tracking_system from '../images/tracking_system.png'
 
 // projects data
 const projectsData = [
   {
     image: lgu_website,
-    title: "Official Website LGU Nabunturan",
+    title: "Official Website Local Government of Nabunturan",
     description: " Just Visit nabunturan.gov.ph",
     clientName: "",
     fbOrPageName: "",
     technologies: ["HTML", "Sass", "React", "Firebase", "CPanel"],
+  },
+  {
+    image: tracking_system,
+    title:"Local Government Unit of Nabunturan Document Tracking System",
+    description: "The system allows users to create, forward, and monitor documents across multiple departments, ensuring transparency and accountability. It includes features such as document history logs, real-time status updates",
+    clientName:"",
+    fbOrPageName:'',
+    technologies:["React","Vite","TailwindCss","Firebase"]
   },
   {
     image: lending_system,
@@ -59,7 +68,7 @@ const projectsData = [
   },
   {
     image: last_sw3,
-    title: "Management System",
+    title: "Lasto/Swertres Management System",
     description:
       "Functions: Admin User,Admin can create normal user and delete user,Add Bets,Auto Profit calculation  of all bets,Generate Report,",
     clientName: "Client Name: NorlieJane Galing",
