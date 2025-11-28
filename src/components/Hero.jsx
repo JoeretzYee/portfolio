@@ -30,11 +30,11 @@ function Hero() {
             Joeretz Yee
           </h1>
           <h3 className="bg-gradient-to-r from-pink-500 to-blue-500 bg-clip-text text-transparent text-2xl  md:text-3xl">
-            Web Developer
+            Software Developer
           </h3>
           <p className="md:text-base text-pretty text-sm text-gray-400">
-            Looking for a collaborative web developer to streamline your digital
-            goals? Let’s build something impactful together
+            I build software that solves real problems. Whether you need a
+            system, an app, or a digital solution I deliver results.
           </p>
           <div className="flex items-center justify-between gap-10">
             <p className="md:text-base text-pretty text-sm text-gray-400">
