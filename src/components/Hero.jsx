@@ -33,8 +33,7 @@ function Hero() {
             Software Developer
           </h3>
           <p className="md:text-base text-pretty text-sm text-gray-400">
-            I build software that solves real problems. Whether you need a
-            system, an app, or a digital solution I deliver results.
+            I build software that solves problems to your business.
           </p>
           <div className="flex items-center justify-between gap-10">
             <p className="md:text-base text-pretty text-sm text-gray-400">

@@ -10,10 +10,20 @@ import lgu_website from "../images/lgu_website.png";
 import whatsapp from "../images/whatsapp.jpg";
 import lending_system from "../images/lending_system.jpg";
 import derby_matching from "../images/derby_matching_system.jpg";
-import tracking_system from '../images/tracking_system.png'
+import tracking_system from "../images/tracking_system.png";
+import jfrozen from "../images/jfrozen.jpg";
+import picklePortal from "../images/picklePortal.jpg";
 
 // projects data
 const projectsData = [
+  {
+    image: picklePortal,
+    title: "Pickle Portal Booking Management System",
+    description: " Just Visit thepickleportal.com",
+    clientName: "Client Name: Jo-an Ancla",
+    fbOrPageName: "Fb: Jo-An Tan Ancla",
+    technologies: ["React", "Vite", "Bootstrap", "Firebase"],
+  },
   {
     image: lgu_website,
     title: "Official Website Local Government of Nabunturan",
@@ -23,12 +33,22 @@ const projectsData = [
     technologies: ["HTML", "Sass", "React", "Firebase", "CPanel"],
   },
   {
+    image: jfrozen,
+    title: "Triple J Frozen Food Trading POS + Inventory Management System",
+    description:
+      "The system allows users to create, forward, and monitor documents across multiple departments, ensuring transparency and accountability. It includes features such as document history logs, real-time status updates",
+    clientName: "Client Name: Joe Pat",
+    fbOrPageName: "Fb: Joe Pat",
+    technologies: ["React", "Vite", "TailwindCss", "Firebase"],
+  },
+  {
     image: tracking_system,
-    title:"Local Government Unit of Nabunturan Document Tracking System",
-    description: "The system allows users to create, forward, and monitor documents across multiple departments, ensuring transparency and accountability. It includes features such as document history logs, real-time status updates",
-    clientName:"",
-    fbOrPageName:'',
-    technologies:["React","Vite","TailwindCss","Firebase"]
+    title: "Local Government Unit of Nabunturan Document Tracking System",
+    description:
+      "Inventory Management SystemAutomatic stock deduction Easier inventory monitoring Faster and more organized stock management",
+    clientName: "Joe Pat",
+    fbOrPageName: "Joe Pat",
+    technologies: ["React", "Vite", "Bootstrap 5", "Firebase"],
   },
   {
     image: lending_system,
